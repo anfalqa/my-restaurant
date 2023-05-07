@@ -1,10 +1,10 @@
 # __Pizza__ Top
 
->Here we present the best Pizza dishes that are made in a delicious way that you will not regret trying.
+>Here we present __the best Pizza dishes__ that are made in a delicious way .. you will not regret trying 😉.
 
 <br>
 
-## The Menu 🤤
+## __The Menu__ 🤤
 
 >### Hawaiian Pizza
 >![Hawaiian Pizza](https://th.bing.com/th/id/OIP.3it0XGo1ra1Tg1u8YKqtUwHaE8?w=277&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7)
