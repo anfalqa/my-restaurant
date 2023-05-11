@@ -1,0 +1,110 @@
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top:0;
+    padding:2px;
+    font-size: 20px
+}
+
+.header ul{
+    list-style-type: none;
+   
+}
+.header ul li {
+display: inline-block;
+margin: 0 10px;}
+
+.box div {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  
+}
+
+.box div label{
+    color: rgb(241, 81, 52);
+    height: 45px;
+    width: 300px;
+    margin: auto;
+    background-color: rgb(242, 218, 205);
+    text-align: center;
+    display:block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+ .par{
+    font-style: oblique;
+    color: rgb(241, 81, 52); 
+    font-size: 45px;
+    font-weight:bold ;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.para{
+    font-style: oblique;
+    color: rgb(241, 81, 52); 
+    font-size: 25px;
+    font-variant: small-caps;
+    text-align: left;
+}
+
+.para{
+    font-style: oblique;
+    color: rgb(241, 81, 52); 
+    font-size: 25px;
+    font-variant: small-caps;
+    text-align: left;
+}
+
+h2 {
+    color: rgb(241, 81, 52); 
+    font-size: 40px;
+
+}
+
+footer{
+    background-color: rgb(255, 236, 227);
+    margin: auto;
+    text-align: center;
+    padding: 3px;
+    color: rgb(241, 81, 52); 
+    margin-top: 200px;
+}
+
+.footer div ul{
+    list-style-type: none;
+    }
+
+
+
+.ab ul {
+    font-style: oblique;
+    color: rgb(241, 81, 52); 
+    font-size: 25px;
+    font-variant: small-caps;
+    text-align: left;
+    list-style-type: none;
+}
+
+.ab img {
+height: 400px;
+  width: 400px;
+  background-color:rgb(241, 81, 52);
+  color: #fff;
+  padding: 10px;
+  border: solid 1.5px rgb(241, 81, 52);
+  margin: 0
+}
